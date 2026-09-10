@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layout Basics</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="crew_shot">CrewShot</string>
+    <string name="button">Open camera</string>
+    <string name="image_caption">Captured photo</string>
+</resources>
